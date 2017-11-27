@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="your_text">Your text is here</string>
+    <string name="hello_button">Press me!</string>
+</resources>
